@@ -1,4 +1,4 @@
-.background{
+.background-me{
   background-color: #AADBCD;
   color: #fff;
   text-align: center;
@@ -8,4 +8,16 @@
   border-radius: 100%;
   max-width: 600px;
   max-height: 300px;
+}
+
+.background-skills {
+  background-color: #fff;
+  color: #AADBCD;
+  text-align: center;
+}
+
+.background-projects {
+  background-color: #AADBCD;
+  color: #fff;
+  text-align: center;
 }
