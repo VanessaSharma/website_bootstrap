@@ -1,10 +1,11 @@
-.background-me{
+.background-me {
   background-color: #AADBCD;
   color: #fff;
   text-align: center;
+  font-family: 'Quicksand', sans-serif;
 }
 
-.profile-img{
+.profile-img {
   border-radius: 100%;
   max-width: 600px;
   max-height: 300px;
@@ -14,10 +15,18 @@
   background-color: #fff;
   color: #AADBCD;
   text-align: center;
+  font-family: 'Quicksand', sans-serif;
 }
 
 .background-projects {
   background-color: #AADBCD;
   color: #fff;
   text-align: center;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+  font-family: 'Quicksand', sans-serif;
 }
